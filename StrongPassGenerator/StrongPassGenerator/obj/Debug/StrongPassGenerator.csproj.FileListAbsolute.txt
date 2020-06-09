@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\StrongPassGenerator.exe.config
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\StrongPassGenerator.exe
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\bin\Debug\StrongPassGenerator.pdb
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.Form1.resources
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.Properties.Resources.resources
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.exe
+C:\Users\gabri\source\repos\StrongPassGenerator\StrongPassGenerator\obj\Debug\StrongPassGenerator.pdb
